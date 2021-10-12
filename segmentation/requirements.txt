@@ -1,5 +1,5 @@
 pathos==0.2.3
 numpy==1.16.4
-opencv_python==4.1.0.25
+opencv_python==4.2.0.32
 Keras==2.2.4
 scipy==1.2.1
